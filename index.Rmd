@@ -3,7 +3,7 @@ title       : Angel Flight West Pilot Profile
 subtitle    : 
 author      : Stephan Fopeano
 job         : Coursera Data Product
-framework   : shower        # {io2012, html5slides, shower, dzslides, ...}
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [bootstrap, quiz, shiny, interactive]  # {mathjax, quiz, shiny, bootstrap}
