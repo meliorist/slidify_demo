@@ -52,7 +52,7 @@ the pilot's total missions to see if there is any correlation.
 
 Below is the result of some executable R code which provides a summary of one of the datasets. The app seems
 to indicate that there is no substantial difference in the distribution based on lifetime missions. All pilots
-require efficiency to be in the 80 percent range.
+appear to want efficiency to be in the 80 percent range.
 
 ```{r echo=FALSE}
 x <- read.csv("pilot_ave_efficiency_1.csv",header=TRUE,quote="")

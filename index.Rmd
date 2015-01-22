@@ -1,9 +1,9 @@
 ---
 title       : Angel Flight West Pilot Profile
 subtitle    : 
-author      : 
-job         : 
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+author      : Stephan Fopeano
+job         : Coursera Data Product
+framework   : shower        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [bootstrap, quiz, shiny, interactive]  # {mathjax, quiz, shiny, bootstrap}
@@ -11,17 +11,12 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Background
+## Background & Goals
 
 - Angel Flight West is a non-profit organization which provides transportation to medical treatment for people in need.
 - Volunteer pilots fly people in their own airplanes, and pay the cost of the flights
 - There is no charge to the passengers
 - Flights are scheduled based on the passengers' needs, so the routing is highly varied
-
---- .class #id 
-
-## Goals
-
 - The goal of this exercise is to find more efficient matches between volunteer pilots and the flights
 - One metric of the match is called "efficiency"
 - Efficiency is how far out of the way the pilot must fly from his or her home airport to complete the passenger's desired routing
